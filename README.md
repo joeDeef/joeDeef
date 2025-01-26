@@ -22,9 +22,6 @@
       <li>☁️ Keen interest in <b>backend development</b> and <b>system design</b>.</li>
     </ul>
   </div>
-  <div style="flex-shrink: 0;">
-    <img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-  </div>
 </div>
 
 <!-- Stats & Trophies Section -->
