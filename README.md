@@ -18,8 +18,8 @@
   <div style="flex: 1;">
     <ul>
       <li>🔬 I’m currently working on <b>Node.js, Express, Django, MongoDB</b>.</li>
-      <li>🌱 I’m learning to build APIs with <b>Django Rest Framework</b> and <b>Express</b>.</li>
-      <li>☁️ Keen interest in <b>backend development</b> and <b>system design</b>.</li>
+      <li>🌱 I’m learning to build APIs with <b>Django Rest Framework</b> with <b>Express</b> and <b>Nest.js</b>.</li>
+      <li>☁️ Keen interest in <b>backend development</b> and <b>test system</b>.</li>
     </ul>
   </div>
 </div>
@@ -52,11 +52,43 @@
 <div id="user-content-toc" align="center">
   <h2>Technologies That I Know 👨‍💻</h2>
 </div>
-<p align="center">
+<div align="center">
+<div>
+  <h3>Version Control & DevOps</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,cpp,css,docker,postgres,express,figma,html,java,js,linux,nginx,mongodb,mysql,nextjs,nodejs,postman,py,ts,vscode,django,angular&perline=14" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker" alt="Version Control & DevOps"/>
   </a>
-</p>
+</div>
+
+<div>
+  <h3>Frontend Development</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,figma" alt="Frontend"/>
+  </a>
+</div>
+
+<div>
+  <h3>Backend Development</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,py,java" alt="Backend"/>
+  </a>
+</div>
+
+<div>
+  <h3>Databases</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases"/>
+  </a>
+</div>
+
+<div>
+  <h3>Tools & OS</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,vscode,postman" alt="Tools & OS"/>
+  </a>
+</div>
+
+</div>
 
 <!-- Connect With Me Section -->
 <div id="user-content-toc" align="center">
@@ -67,7 +99,7 @@
   <a href="https://www.linkedin.com/in/joedeef" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=14" alt="LinkedIn" height="50" width="50" />
   </a>
-  <a href="mailto:joe.def2019@gmail.com" target="blank">
+  <a href="mailto:josejoel.defaz@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail&perline=14" alt="Gmail" height="50" width="50" />
   </a>
   <a href="https://github.com/joeDeef" target="blank">
