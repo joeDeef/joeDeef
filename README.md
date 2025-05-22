@@ -31,14 +31,14 @@
         <h2>🔧 What I'm Working On</h2>
         <ul>
           <li>🔬 Node.js, Express & MongoDB</li>
-          <li>☁️ Continuously learning and enhancing skills in Spring Boot, Nest.js, Go, and CI/CD practices</li>
+          <li>☁️ Continuously learning and enhancing skills in Typescript, Javascript and CI/CD practices</li>
           <li>⚙️ Passionate about Backend Development, APIs, and Quality Assurance Testing</li>
         </ul>
       </div>
     </div>
     <!-- Right Section: Image -->
     <div style="flex: 1; text-align: center;">
-      <img src="./img/animation.gif" width="300" height="300" alt="Animation" style="object-fit: contain;" />
+      <img src="./img/animation.gif" width="250" height="250" alt="Animation" style="object-fit: contain;" />
     </div>
   </div>
 </div>
@@ -52,7 +52,7 @@
     <tr>
       <td align="center">
         <h3>🧠 Backend Frameworks</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend Frameworks" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,django,bun" alt="Backend Frameworks" />
       </td>
       <td align="center">
         <h3>💻 Programming Languages</h3>
